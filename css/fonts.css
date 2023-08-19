@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Amita&family=Gotu&family=Laila&family=Noto+Sans&family=Poppins&family=Rubik+Glitch&family=Yatra+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+.question, .options{
+    user-select: none;
+}
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+.Amita{font-family:'Amita';}
+.Yatra{font-family:'Yatra One';}
+.Poppins{font-family:'Poppins';font-weight:900}
+.Gotu{font-family:'Gotu';font-weight:600}
+.Time{font-family: 'Times New Roman', Times, serif;}
+.Noto{font-family: 'Rye';}
+.Georgia{font-family: Georgia;}
+.Laila{font-family: Laila;}
